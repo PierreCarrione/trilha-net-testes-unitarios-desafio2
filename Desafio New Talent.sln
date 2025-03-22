@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio New Talent", "Desafio New Talent\Desafio New Talent.csproj", "{A56F05DB-35B3-447C-91B4-BBFB7AC8DBA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste New Talent", "Teste New Talent\Teste New Talent.csproj", "{6C814DB7-B428-43FC-A78B-DE061A9C5E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56F05DB-35B3-447C-91B4-BBFB7AC8DBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56F05DB-35B3-447C-91B4-BBFB7AC8DBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56F05DB-35B3-447C-91B4-BBFB7AC8DBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56F05DB-35B3-447C-91B4-BBFB7AC8DBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C814DB7-B428-43FC-A78B-DE061A9C5E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C814DB7-B428-43FC-A78B-DE061A9C5E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C814DB7-B428-43FC-A78B-DE061A9C5E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C814DB7-B428-43FC-A78B-DE061A9C5E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5228707C-4571-4636-9ED7-23BA8772654D}
+	EndGlobalSection
+EndGlobal

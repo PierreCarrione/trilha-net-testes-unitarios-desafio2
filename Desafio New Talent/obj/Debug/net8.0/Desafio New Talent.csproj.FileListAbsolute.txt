@@ -1,0 +1,28 @@
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.exe
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.deps.json
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.runtimeconfig.json
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.dll
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.pdb
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.AssemblyInfoInputs.cache
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.AssemblyInfo.cs
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.dll
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\obj\Debug\net8.0\refint\Desafio New Talent.dll
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.pdb
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.genruntimeconfig.cache
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\Desafio New Talent\Desafio New Talent\obj\Debug\net8.0\ref\Desafio New Talent.dll
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.exe
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.deps.json
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.runtimeconfig.json
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.dll
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\bin\Debug\net8.0\Desafio New Talent.pdb
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.AssemblyInfoInputs.cache
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.AssemblyInfo.cs
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.dll
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\obj\Debug\net8.0\refint\Desafio New Talent.dll
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.pdb
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\obj\Debug\net8.0\Desafio New Talent.genruntimeconfig.cache
+C:\Users\Pierre\Documents\Dio\FullStackDev\Projetos\trilha-net-testes-unitarios-new-talent\Desafio New Talent\obj\Debug\net8.0\ref\Desafio New Talent.dll
